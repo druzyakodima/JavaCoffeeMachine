@@ -1,6 +1,7 @@
 package actionCoffeeMachine;
 
 public class IngredientsCoffeeMachine {
+
     private int water = 400;
     private int milk = 540;
     private int coffeeBeans = 120;

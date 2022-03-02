@@ -1,6 +1,7 @@
 package actionCoffeeMachine;
 
 public enum Actions {
+
     BUY("buy"),
     FILL("fill"),
     TAKE("take"),
